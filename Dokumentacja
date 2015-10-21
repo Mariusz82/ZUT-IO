@@ -1,3 +1,5 @@
+Diagramy przypadkow uzycia slownie---------------------------------------------------------------------------------------
+
 Informatyk moze dodac uzytkownika
 Informatyk moze usunac uzytkownika
 Informatyk moze edytowac uzytkownika
@@ -5,11 +7,14 @@ Informatyk moze wyszukac uzytkownika
 
 KIEROWNIK DS.FINANSOWO ADMINISTRACYJNYCH moze wyszukac uzytkownika
 
-Kasjer-sprzedawca moze wyszukac klienta
+Kasjer-Sprzedawca moze wyszukac klienta
+
 
 KIEROWNIK DS.HANDLU moze wyszukac uzytkownika
 KIEROWNIK DS.HANDLU moze dodac klienta
 KIEROWNIK DS.HANDLU moze usunac klienta
 KIEROWNIK DS.HANDLU moze edytowac klienta
 KIEROWNIK DS.HANDLU moze wyszukac klienta
-KIEROWNIK DS.HANDLU moze 
+KIEROWNIK DS.HANDLU moze wyszukac fakture
+KIEROWNIK DS.HANDLU moze wyszukac fakture korygujaca
+KIEROWNIK DS.HANDLU moze wyszukac dokument wz
